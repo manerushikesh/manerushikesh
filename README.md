@@ -6,7 +6,7 @@
 
 - You can reach out to me using the below handles
 	-		Email     : rishismane45@gmail.com
-	-		LinkedIN  : https://www.linkedin.com/in/rushikesh-mane-05989a194
+	-		LinkedIN  : [https://www.linkedin.com/in/rushikesh-mane-05989a194](https://www.linkedin.com/in/-rushikeshmane/)
 	-		Twitter   : https://twitter.com/imrushikeshmane
 <!---
 manerushikesh/manerushikesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
