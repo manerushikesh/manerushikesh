@@ -5,10 +5,7 @@
 - I can code in C and C++ and am learning to code on other platforms as well .
 
 - You can reach out to me using the below handles
-	-		Email     : rishismane45@gmail.com
-	-		LinkedIN  : [https://www.linkedin.com/in/rushikesh-mane-05989a194](https://www.linkedin.com/in/-rushikeshmane/)
-	-		Twitter   : https://twitter.com/imrushikeshmane
-<!---
-manerushikesh/manerushikesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+1. Email     : rishismane45@gmail.com
+2. LinkedIN  : https://www.linkedin.com/in/-rushikeshmane/
+3. Twitter   : https://twitter.com/imrushikeshmane
+
